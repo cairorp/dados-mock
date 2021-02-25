@@ -1,1 +1,3059 @@
-https://my-json-server.typicode.com/
+{
+   "profissoes":[
+      {
+         "profissao":"ACOUGUEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ADIDO ESTRANGEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ADMINISTRADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ADVOGADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ADVOGADO TRABALHISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AERONAUTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AEROVIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE COMUNITARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE POLICIA",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE SAÚDE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE TELECOMUNICAÇÕES",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE TURISMO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE VENDA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE DE VIAGEM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE FUNERARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGENTE LOTERICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGRICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGRIMENSOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGRONOMO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AGROPECUARISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD CARPINTEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD GERAL",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD MANUT ELETRICA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD MANUT MECANICA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD MOTORISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD PEDREIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUD PRODUCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AJUSTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ALFAIATE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ALMOXARIFE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS CARGO/SALARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS CONTABIL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS CREDITO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS CUSTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS ECONOM-FINAN",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS FINANCEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS LABORATORIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS MERCADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS MICROINFORM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS ORCAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS ORG E METODO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS SUP TECNICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALIS TREINAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALISTA AMBIENTAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALISTA DE PLANEJAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALISTA DE SISTEMAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ANALISTA JUDICIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"APICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"APONTADOR PRODUCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"Aposentado por tempo de serviço",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARMEIRO",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARQUEOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARQUITETO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARQUIVISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARTESAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARTISTA EMPRESARIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ARTISTA PLASTICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASCENSORISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSESSOR GABINETE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSESSOR JURIDICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST CAM CINEMATOGRAFICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST COMERCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST EXPORTACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST IMPORTACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST PESSOAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSIST. SONORIZAÇÃO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSISTENTE ADMINISTRATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSISTENTE DE DIRETORIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASSISTENTE SOCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASTROLOGA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ASTRONOMO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATEND DE ENFERMAGEM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATENDENTE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATENDENTE DE FARMACIA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATENDENTE DE LANCHONETE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATLETA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ATUARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUTÔNOMO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX AGROPECUARISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ALMOXARIFADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ASSIST SOCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ATIVO FIXO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX BENEFICIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX CADASTRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX COMPRAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX CONTABILIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX CONTAS A PAGAR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX CONTR QUALIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX COZINHA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX DE CAIXA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX DE CUSTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX DE VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ENFERM TRABALHO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ESCRITA FISCAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX EXPEDICAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX FATURAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX FOLHA PAGAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX IMP/EXPORTACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX LABORATORIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX ORCAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX PLAN CONTR PROD",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX RECRUT SELECAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUX TREINAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR ADMINISTRATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR DE DENTISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR DE ENFERMAGEM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR DE ESCRITÓRIO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"Auxiliar de Farmácia",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR DE SERVIÇOS GERAIS",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AUXILIAR OPERACIONAL",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"AVALIADOR IMOVEL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AVICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"AZULEJISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BABA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BAILARINO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BALCONISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"BANCARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BARBEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BARMAN",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BARQUEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BIBLIOTECARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BIOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BIOMEDICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BIOQUIMICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"BOIA FRIA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"BOLSISTA E ASSEMELHADO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"BOMBEIRO HIDRAULICO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"BOMBISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"BORRACHEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CABELEIREIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CACADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CAFEICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CAIXA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CALDEIRADOR",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"CALDEIREIRO",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"CAMAREIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CANOEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CANTEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CANTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CARPINTEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CARREGADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CARTEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CARTORARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CASEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CERAMISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH ALMOXARIFADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH CONTAB CUSTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH CONTAB GERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH CONTAS A PAGAR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH CONTR QUALIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH CRED/COBRANCA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DE COMPRAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DE PESSOAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DE PRODUCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DE SERVICOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DE VENDA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH DIGITACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH EXPEDICAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH FABRICACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH LABOR INDUSTRIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH MANUT ELETRICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH MANUT GERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH MANUT MECANICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH OFICINA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH OPERACAO-CPD",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH PLAN CONTR PROD",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH PROM VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH REL TRABALHISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH SEG PATRIMONIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH SEG TRABALHO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH SERV GERAIS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH SERVICO SOCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH TESOURARIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CH USINAGEM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHAPEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHAPELEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHAVEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHEFE DE COZINHA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHEFE DE GABINETE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CHEFE SETOR TRIBUTARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CINEASTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CLASSIFICADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COBRADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMANDANTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMENTARISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMERCIANTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMERCIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMISSARIO DE BORDO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMPOSITOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMPRADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COMUNICOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COND VEIC MARITIMO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONFECCIONISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONFEITEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONFERENTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONSTRUTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONSULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONTABILISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONTINUO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONTRAMESTRE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CONTROLLER",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COORDENADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COORDENADOR PEDAGOGICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COPEIRA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"COREOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORONEL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORRETOR DE CAFÉ",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORRETOR DE IMOVEIS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORRETOR DE SEGUROS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORRETOR TIT VALORES",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CORTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COSTUREIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COVEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"COZINHEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CRONOALISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CRONOMETRISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"CRONOTECNICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DATILOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DECORADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DELEGADO POLICIA",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"DENTISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DEPUTADO ESTADUAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DEPUTADO FEDERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DESEMBARGADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DESENHISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DESIGN GRAFICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DESPACHANTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIAGRAMADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIGITADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIPLOMATA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR ADM FINANCEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR ADM PUBLICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR ADMINISTRATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR COMERCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR DE VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR ENGENHARIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR ESPETAC PUBLICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR FINANCEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR INDUSTRIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR INFORMATICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR MARKETING",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR PRESIDENTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR PUBLICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR REC HUMANOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIR V-PRESIDENTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIRETOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIRETOR DE CARTORIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DIRETOR ESTABELECIMENTO ENSINO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DISCOTECARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"DO LAR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ECONOMIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ECONOMISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EDUCADOR SOCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ELETRICISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ELETRICITARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ELETROMECÂNICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ELETROTECNICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMBALADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREG CONTABIL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREG DESTILARIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREG ESTAB SAUDE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREG RECREACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREGADA DOMESTICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREGADO COMERCIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREGADO EM EMPRESA DE CONSORCIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPREITEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPRESÁRIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"EMPRESÁRIO E PRODUTOR DE ESPETÁCULOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENCANADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENCARREGADO DE ESTOQUE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENCARREGADO MONTAGEM DE ESTRUT METALICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENFERMEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENGENHEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ENTREGADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESCREVENTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESCRITOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESCRITURARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESCRIVAO DE POLICIA",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESCULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESPECIAL FIS/QUIMICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTAGIÁRIO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTATISTICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTETICISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTILISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTIVADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTOQUISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"ESTUDANTE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"FARMACEUTICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FATURISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FAXINEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"FAZENDEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FEIRANTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FERRAMENTEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FERREIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FERROVIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FISCAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FISICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FISIOTERAPEUTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FITOTECARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FLORICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FONOAUDIOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FORJADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FORMULADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FOTOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FRENTISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"FRESADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"FRETISTA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"FRUTICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FUNCIONARIO PUBLICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FUNCIONARIO PUBLICO APOSENTADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FUNCIONÁRIO PÚBLICO FEDERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FUNCIONÁRIO PÚBLICO MUNICIPAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"FUNILEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"GALVANOPLASTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GARAGISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GARCON",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"Gari",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"GARIMPEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"GEOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GEOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ADM DE PESSOAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ADM DE VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ADM E FINANCEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ADMINISTRATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ARQUITETURA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ASSIST TECNICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER COMERCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CONTAB CUSTOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CONTAB GERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CONTAS A PAGAR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CONTR QUALIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CONTROLADORIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER CRED E COBRANCA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE AUDITORIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE COMPRAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE EXPORTACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE FABRICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE PRODUCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE PRODUTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE PROGRAMACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE PROJETOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE REDACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE SUPRIMENTOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE TESOURARIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DE VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DESENV REC/HUM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DESENV SISTEMA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER DISTRIB TRANSPORTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ENG E PROJETOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER FABRICACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER FINANCEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER INDUSTRIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER JURIDICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER MANUT GERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER MARKETING",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER ORG E METODOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER PESQ DESENVOLV",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER PESQ MERCADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER PLAN CONTR PROD",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER PLAN/FIN/ORCATO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER PROCES DADOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER RECRUT/SELECAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER RECURSOS HUMANOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER REMUN BENEFICIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GER TREIN DESENVOL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GERENTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GESSEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"GOVERNADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GOVERNANTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GRAFICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"GUARDA",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"GUIA TURISTICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"HIDROMETRISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"HISTORIADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"HORTICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"HOTELEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ILUSTRADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"IMPRESSOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"INDUSTRIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"INDUSTRIÁRIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"INSPETOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"INSTRUMENTISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"INSTRUTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ISOLADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JARDINEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JOALHEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JORNALEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JORNALISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JUIZ DE DIREITO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JUIZ DO TRABALHO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"JURISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"KARDEXISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LABORATORISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LANTERNEIRO DE AUTOMÓVEIS",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"LAVADEIRA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"LAVADOR DE VEICULOS",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"LAVRADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"LEILOEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LEITURISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LENHADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"LINOTIPISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LOCUTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"LUBRIFICADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MACAROQUEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MANDRILADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MANICURE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"MAQUILADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MAQUINISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MARCENEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MARMORISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MASSAGISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MASSEIRO (MASSAS ALIMENTOS)",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MATEMATICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MECANICO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"MECANOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MEDICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MEMB FORCAS ARMADAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MEMB.LEGISL PESSOAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MENSAGEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MERENDEIRA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"MERGULHADOR",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"MESTRE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MESTRE DE OBRAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"METALURGICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"METEOROLOGISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"METROVIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MICROEMPRESARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MILITAR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MILITAR ATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MILITAR REFORMADO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MINEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MINISTRO DO EVANGELHO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MODELO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MODISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MOLDADOR DE CERAMICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MONITOR DE CRECHE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MONTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MOTO BOY",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"MOTORISTA PASSAGEIROS",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"MUSEOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"MUSICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"NUTRICIONISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ODONTOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OFFICE BOY",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"OFICIAIS FORCAS ARMADAS/AUXIL.",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OFICIAL DE CONVES",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OFICIAL DE JUSTICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OLEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER CALC CONTABIL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER DE CAMERA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER DE COMPUTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER DE TELEX",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER IND. DE PAPEL E PAPELAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER MAQUINAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER OPEN-MARKET",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER RADIO TV CINE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPER TELEMARKETING",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERADOR DE PONTE ROLANTE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERADOR DE TRAFEGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO DE CORTUME",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO DE IND. DE CONFECCOES GRAFICAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. ALIMENTOS E BEBIDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. DE ARTEFATOS DE MADEIRA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. DE ARTES GRAFICAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. DE FUMO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. DE PREPARO ADORNOS CONSTR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. DE USINAGEM DE METAIS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. PLASTICOS E BORRACHA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM IND. TEXTIL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OPERARIO EM INDUSTRIA QUIMICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ORCAMENTISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"ORGANIZADOR DE EVENTOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OURIVES",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"OVERLOQUISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PADEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PADRE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"PASSADEIRA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"PASTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PECUARISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PEDAGOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PEDICURE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"PEDREIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"PERITO CRIMINAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PERITO JUDICIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PESCADOR",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"PESPONTADEIRA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PETROLEIRO",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"PILOTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PINTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PISCICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PIZZAIOLO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"POLICIA CIVIL",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"POLICIA FEDERAL",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"POLICIA MILITAR",
+         "limiteCapital":25000,
+         "agravo":0
+      },
+      {
+         "profissao":"POLIDOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PORTEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PORTUARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PREFEITO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PRENSISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PRESTADOR SERVICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROCURADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PRODUTOR AGRICOLA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PRODUTOR ESPETACULO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PRODUTOR RURAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROF. IND. TRANSP. CONSTR. E EST. MIN",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROFESSOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROFISSIONAL EM PROCESSAMENTO DE DADOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROFISSIONAL TECNICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROGR DE COMPUTADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROGR DE PRODUCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROJETISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROMOTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROPRIETARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROPRIETARIO DE MICROEMPRESA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROPRIETARIO ESTAB.COMERCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROPRIETARIO ESTAB.INDUSTRIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROPRIETARIO ESTAB.PREST.SERV.",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROTETICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PROVEDOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PSICANALISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PSICOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PSIQUIATRA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"PUBLICITARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"QUIMICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RADIALISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RANICULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REBARBADOR DE METAIS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REBITADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RECEBEDOR DE APOSTAS (LOTERIA)",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"RECEPCIONISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REDATOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RELACOES PUBLICAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RELOJOEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REPORTER",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REPOSITOR DE MERCADORIAS",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"REPRESENTANTE COMERCIAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RESTAURADOR INSTRUMENTOS MUSICAIS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RETIFICADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"REVISOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"RURICOLA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SAPATEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SCHEDULLER",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SECRETARIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SECRETARIO DE CONTROLES INTERNOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SECURITARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SELECIONADOR DE PESSOAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SELEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SENADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERRALHEIRO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERV PUBL EST APOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERV PUBL FED APOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERV PUBL MUN APOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVENTE",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVENTUARIO DE JUSTICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVIÇO DE TERRAPLENAGEM",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVIDOR PÚBLICO ESTADUAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVIDOR PUBLICO FEDERAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SERVIDOR PUBLICO MUNICIPAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SIDERURGICO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"SINDICALISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SOCIOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SOLDADOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SORVETEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SUINOCULTOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SUPERVISOR",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SUPERVISOR DE ENSINO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"SUPERVISOR DE VENDAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TABELIAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TAPECEIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TAQUIGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TAXISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TEC. LABORATÓRIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TEC. NECROPSIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECELAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN AGRICOLA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN CADAST RURAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN CONTABILIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN DE EDIFICACOES",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN DE EXPORTACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN EM BIOLOGIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN EM DESPORTOS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN EM ELETRICIDADE",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN EM ELETRONICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN ESTUD PESQUISA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN FIDUCIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN MANUTENCAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN METODO/PROCESSO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN RADIOLOGIA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN SEGURANCA TRAB",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN TELECOMUNICACAO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECN TELEPROCESSAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNICO DE APOIO LEGISLATIVO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNICO DE MECANICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNICO DE PLANEJAMENTO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNICO INFORMATICA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNICO JUDICIARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TECNOLOGO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TELECITARIO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TELEFONISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TELEGRAFISTA",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TERAPEUTA OCUPACIONAL",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TESOUREIRO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TOPOGRAFO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TORNEIRO MECANICO",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"TRAB. FABRICACAO DE ROUPAS",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TRAB. METALURGICO/SIDERURGICO",
+         "limiteCapital":1000000,
+         "agravo":0
+      },
+      {
+         "profissao":"TRAB. SERV. CONTABILIDADE/CAIXA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"TRABALHADOR AGRICOLA",
+         "limiteCapital":100000,
+         "agravo":0
+      },
+      {
+         "profissao":"TRABALHADOR ART. COURO",
+         "limiteCapital":1000000,
+         "agravo":0
+      }
+   ]
+}
